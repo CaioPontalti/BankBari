@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer\\Bari.Consumer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer.Domain\\Bari.Consumer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer.Domain\\Bari.Consumer.Domain.csproj",
+        "projectName": "Bari.Consumer.Domain",
+        "projectPath": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer.Domain\\Bari.Consumer.Domain.csproj",
+        "packagesPath": "C:\\Users\\PDA-Caio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PDA-Caio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://cliente.pdasolucoes.com.br/library/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer\\Bari.Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer\\Bari.Consumer.csproj",
+        "projectName": "Bari.Consumer",
+        "projectPath": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer\\Bari.Consumer.csproj",
+        "packagesPath": "C:\\Users\\PDA-Caio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PDA-Caio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://cliente.pdasolucoes.com.br/library/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer.Domain\\Bari.Consumer.Domain.csproj": {
+                "projectPath": "C:\\Users\\PDA-Caio\\source\\repos\\BankBari\\src\\Consumers\\Bari.Consumer.Domain\\Bari.Consumer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

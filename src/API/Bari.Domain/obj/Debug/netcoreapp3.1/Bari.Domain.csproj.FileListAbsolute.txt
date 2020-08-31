@@ -1,0 +1,9 @@
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\bin\Debug\netcoreapp3.1\Bari.Domain.deps.json
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\bin\Debug\netcoreapp3.1\Bari.Domain.dll
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\bin\Debug\netcoreapp3.1\Bari.Domain.pdb
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\obj\Debug\netcoreapp3.1\Bari.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\obj\Debug\netcoreapp3.1\Bari.Domain.AssemblyInfoInputs.cache
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\obj\Debug\netcoreapp3.1\Bari.Domain.AssemblyInfo.cs
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\obj\Debug\netcoreapp3.1\Bari.Domain.dll
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\obj\Debug\netcoreapp3.1\Bari.Domain.pdb
+C:\Users\PDA-Caio\source\repos\BankBari\src\API\Bari.Domain\obj\Debug\netcoreapp3.1\Bari.Domain.csprojAssemblyReference.cache
